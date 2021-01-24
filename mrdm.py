@@ -176,10 +176,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mWrong Password"
-            os.system('xdg-open @ShexaCracker')
+            os.system('xdg-open https://t.me/Ravo_m')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open @ShexaCracker')
+        os.system('xdg-open https://t.me/Ravo_m')
 
 ##### LICENSE #####
 #=================#
