@@ -190,11 +190,11 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo
-	print "\033[1;97m[1]\033[1;97m\033[1;97mLogin With Facebook              \033[1;0m"
+	print "\033[1;97m[1]\033[1;97m\033[1;97mChuna zhurawa larey facebook            \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;97m[2]\033[1;97m\033[1;97mLogin With Token                 \033[1;97m"
+        print "\033[1;97m[2]\033[1;97m\033[1;97mChuna zhurawa larey token                 \033[1;97m"
         time.sleep(0.05)
-        print "\033[1;97m[3]\033[1;97m\033[1;97mDownload Token App               \033[1;97m"
+        print "\033[1;97m[3]\033[1;97m\033[1;97mdabazandny token              \033[1;97m"
         time.sleep(0.05)
         print ""
         time.sleep(0.05)
@@ -217,10 +217,10 @@ def pilih_login():
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
         elif peak =="4":
-	        os.system('xdg-open @MrDAEJEL')
+	        os.system('xdg-open @Ravo_m')
 	        login()
         elif peak =="5":
-	        os.system('xdg-open @MrDAEJEL')
+	        os.system('xdg-open @Ravo_m')
                 login()
 	elif peak =="0":
 		keluar()
