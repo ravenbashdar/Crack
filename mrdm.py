@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To TLYAK
+#The Credit For This Code Goes To Arez
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,19 +110,21 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:TLYAK
+#Dev:Ravo
 ##### LOGO #####
 logo = """
 
-
-    _____ _    _           _______    _ _   _ 
-   / ____| |  | |   /\    |___  / |  | | \ | |
-  | (___ | |__| |  /  \      / /| |__| |  \| |
-   \___ \|  __  | / /\ \    / / |  __  | . ` |
-   ____) | |  | |/ ____ \  / /__| |  | | |\  |
-  |_____/|_|  |_/_/    \_\/_____|_|  |_|_| \_|
-                                              
-                                              
+  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZ    
+ AAAAA   RR    RR   EE                  ZZ
+AA   AA  RRRRRR     EE                ZZ
+AAAAAAA  RRRR       EEEEEE          ZZ
+AA   AA  RR RR      EE            ZZ
+AA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
+MyTelegram : @Ravo_M
+2 Telegram : @Shazhn
+MyChanell  : @ArezBashdar
+$$$$$$$$$$$$$$$$$$Ravo$$$$$$$$$$$$$$$$$$                                            
+                                            
 
 
 """
@@ -145,13 +147,23 @@ vuln = "\033[97mVuln"
 os.system("clear")
 print  """
 #######################
-ME| </>TLYAK</>
-TLEGRAM CHANAL | SHEXA ShexaCracker
-ME TLEGRAM | @MrDAEJEL
+ME| </>ArezBashdar</>
+
+  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZ    
+ AAAAA   RR    RR   EE                  ZZ
+AA   AA  RRRRRR     EE                ZZ
+AAAAAAA  RRRR       EEEEEE          ZZ
+AA   AA  RR RR      EE            ZZ
+AA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
+MyTelegram : @Ravo_M
+2 Telegram : @Shazhn
+MyChanell  : @ArezBashdar
+$$$$$$$$$$$$$$$$$$Ravo$$$$$$$$$$$$$$$$$$
+
 #######################
  """
-CorrectUsername = "1"
-CorrectPassword = "1"
+CorrectUsername = "Arez"
+CorrectPassword = "System"
 
 loop = 'true'
 while (loop == 'true'):
@@ -674,10 +686,10 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 #Dev: Mr DAEJEL
-        print "\033[1;95¢-----------------\033[1;35mðŸ‘ºTLYAK\033[1;97m-----------------â€¢"
-	print '\033[1;97m[+]\033[1;97m \033[1;32mProcess Has Been Completed\033[1;0m'
+        print "\033[1;95¢-----------------\033[1;35mArez\033[1;97m-----------------â€¢"
+	print '\033[1;97m[+]\033[1;97m \033[1;32mTawaw batamay che xwat lagal\033[1;0m'
 	print"\033[1;95m[+]\033[1;95mTotal \033[1;95mOK/\x1b[1;95mCP \033[1;95m: \033[1;95m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
-	print "\033[1;95m«-----------------\033[1;35m </>TLYAK</>\033[1;92m-----------------»"
+	print "\033[1;95m«-----------------\033[1;35m </>Shazhn</>\033[1;92m-----------------»"
 	print """
  \033[1;95m
 
